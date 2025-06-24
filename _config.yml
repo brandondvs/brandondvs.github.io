@@ -1,3 +1,6 @@
 title: Brandon Thoughts
 description: Personal site
 theme: minima
+
+plugins:
+  - jekyll-feed
