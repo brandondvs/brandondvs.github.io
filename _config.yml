@@ -1,6 +1,7 @@
 title: Brandon Thoughts
-description: Personal site
+description: ""
 theme: minima
+github_username: brandondvs
 
 plugins:
   - jekyll-feed
