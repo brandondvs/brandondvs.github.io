@@ -1,1 +1,7 @@
+title: Brandon Davis
+description: >-
+  Where I write about stuff
+github_username:  brandondvs
 theme: minima
+minima:
+  hide_site_feed_link: true

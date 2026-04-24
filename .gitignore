@@ -1,2 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 # MacOS system files
 .DS_Store
