@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Entrepreneur with a background in Software Engineering & Engineering Management. I've spent 10+ years in the industry
-and recently ventured out on my own.
+Self-taught software engineer & engineering manager, 15 years of experience, West Coast-based. Prefers first-principles reasoning and practical solutions.
 
-Technical topics of interest: large-scale systems, systems programming, reliability (SRE), and first-principles solutions.
+Topics of interest: leadership, large-scale systems, systems programming, reliability (SRE)
